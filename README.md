@@ -13,3 +13,5 @@ The data includes three  main categories:
 -	Historical Data: Previous course completion rates, average quiz scores across all courses and the number of courses started but not completed.
   
 The synthetic data generated based on these categories using the Faker library in python. Total 1000 student profiles generated, and classification task carried out to predict the success of a course completion or dropout from the course. As the data is unsupervised no labels are provided to predict the success of a course, to predict the completion status of the course manually a threshold is created.
+
+For full details of the predictive model, check the [report](https://github.com/pavankz/Predicting_Student_Success_in_Online_Courses/blob/main/Predicting%20Student%20Success%20in%20Online%20Courses.pdf)
