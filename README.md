@@ -6,7 +6,7 @@ The Aim is to build a predictive model  that can estimate whether a student will
 2.	Analysing feature importance and discuss which factors most strongly influence course completion.
 3.	Suggesting how the platform could intervene early to help students at risk of dropping out.
    
-## 2. Data Overview
+## 2. [Data](https://github.com/pavankz/Predicting_Student_Success_in_Online_Courses/blob/main/student_course_data.csv) Overview
 The data includes three  main categories:
 -	Student Profile Data: Age, gender, major, academic year and region.
 -	Course Engagement Data: Number of logins per week, videos watched, time spent on the platform, and quiz scores.
