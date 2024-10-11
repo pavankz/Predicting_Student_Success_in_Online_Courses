@@ -1,0 +1,1001 @@
+student_id,age,gender,major,year,region,logins_per_week,videos_watched,time_spent,avg_quiz_score,courses_started,courses_completed,avg_score_across_courses
+1,19,Female,IT,4,Rajasthan,9,10,8,94,4,0,50
+2,18,Female,Bio-Technology,1,Telenagana,2,6,10,98,5,3,88
+3,22,Female,Bio-Technology,3,Gujarat,2,14,5,71,7,6,61
+4,21,Male,Civil Engineering,3,Tamil Nadu,4,5,6,59,7,4,60
+5,21,Female,Electrical Engineering,2,Karnataka,9,14,5,98,7,7,26
+6,20,Female,Chemical Engineering,1,Rajasthan,7,20,14,66,2,1,24
+7,19,Female,Electrical Engineering,4,Tamil Nadu,4,7,13,40,4,0,37
+8,26,Female,Computer Science,4,Andra Pradesh,4,9,15,53,2,0,73
+9,19,Female,Mechanical Engineering,2,Andra Pradesh,9,7,7,25,2,0,48
+10,27,Female,Civil Engineering,1,Andra Pradesh,4,13,9,19,5,0,75
+11,24,Female,Computer Science,4,Tamil Nadu,10,13,9,83,6,0,47
+12,18,Male,Environmental Science,1,Gujarat,3,9,8,57,4,3,71
+13,18,Male,IT,2,Andra Pradesh,9,13,4,64,4,4,98
+14,19,Female,Environmental Science,1,Kerala,9,13,13,31,4,1,32
+15,21,Male,Computer Science,1,Delhi,7,13,6,81,6,0,30
+16,21,Female,IT,1,Karnataka,2,5,9,84,2,2,87
+17,26,Male,Bio-Technology,2,Rajasthan,10,8,7,51,6,4,77
+18,27,Female,Environmental Science,2,UP,6,10,7,42,5,4,20
+19,18,Female,Electrical Engineering,2,Delhi,8,9,13,26,1,1,61
+20,26,Female,Computer Science,4,Gujarat,7,19,5,80,4,2,51
+21,21,Female,Computer Science,3,Karnataka,2,16,7,85,6,5,66
+22,26,Male,Electrical Engineering,1,Kerala,3,10,13,54,1,0,67
+23,24,Female,Mechanical Engineering,3,Maharashtra,3,13,12,81,2,2,94
+24,21,Male,Chemical Engineering,1,Gujarat,9,12,6,58,7,2,31
+25,25,Male,Electrical Engineering,1,Rajasthan,7,20,9,96,2,1,71
+26,27,Female,Bio-Technology,1,Delhi,9,10,6,35,3,3,61
+27,22,Male,Bio-Technology,2,Delhi,6,6,4,17,6,5,80
+28,18,Female,Environmental Science,4,West Bengal,3,15,5,18,5,5,94
+29,20,Male,Bio-Technology,2,Kerala,9,7,6,84,3,3,55
+30,24,Female,Electrical Engineering,1,Rajasthan,10,9,3,90,6,2,62
+31,23,Male,Civil Engineering,3,West Bengal,8,9,6,48,1,0,25
+32,22,Male,Mechanical Engineering,1,UP,6,20,15,45,6,0,67
+33,20,Female,Chemical Engineering,1,UP,6,18,7,53,6,2,79
+34,21,Male,Environmental Science,4,Telenagana,9,17,10,69,6,0,72
+35,23,Male,Bio-Technology,1,UP,6,12,10,79,2,2,48
+36,19,Female,Electrical Engineering,2,Maharashtra,6,19,11,29,4,4,20
+37,19,Female,Environmental Science,4,West Bengal,7,10,9,22,4,1,94
+38,24,Female,Computer Science,4,Kerala,7,11,9,62,7,6,97
+39,19,Female,Chemical Engineering,4,Gujarat,6,16,13,48,5,5,22
+40,23,Male,Electrical Engineering,1,Kerala,10,6,3,95,1,0,46
+41,23,Female,Civil Engineering,4,Kerala,4,13,6,79,3,3,86
+42,27,Female,Environmental Science,4,Andra Pradesh,10,8,5,60,1,1,16
+43,22,Female,IT,2,Rajasthan,9,6,7,30,7,1,34
+44,18,Female,IT,3,Karnataka,4,10,5,21,1,0,28
+45,25,Male,Chemical Engineering,2,Tamil Nadu,7,19,3,98,5,1,52
+46,26,Male,Mechanical Engineering,2,Telenagana,9,17,7,30,7,1,63
+47,19,Male,IT,3,Maharashtra,5,20,15,72,7,2,35
+48,24,Female,Mechanical Engineering,3,UP,6,14,15,53,3,1,87
+49,19,Male,Environmental Science,4,Gujarat,8,20,7,88,4,0,66
+50,26,Male,Environmental Science,2,Karnataka,8,12,13,15,4,4,24
+51,22,Female,Bio-Technology,1,Andra Pradesh,7,17,11,73,2,1,43
+52,27,Male,Chemical Engineering,2,Kerala,1,17,5,58,3,2,64
+53,23,Male,Civil Engineering,3,Kerala,1,20,13,45,2,0,74
+54,27,Female,Computer Science,4,Delhi,5,13,3,89,5,0,100
+55,21,Male,Electrical Engineering,4,Telenagana,10,9,14,87,1,0,26
+56,19,Female,IT,4,Tamil Nadu,1,18,10,95,4,4,59
+57,18,Male,Civil Engineering,1,Kerala,9,5,15,100,1,0,74
+58,21,Male,Bio-Technology,1,West Bengal,3,14,3,83,1,0,74
+59,22,Female,Electrical Engineering,3,Rajasthan,5,19,3,91,6,0,97
+60,19,Male,Chemical Engineering,4,Maharashtra,1,17,4,44,6,4,83
+61,21,Female,Electrical Engineering,2,UP,5,15,8,59,6,2,74
+62,19,Female,Computer Science,4,Rajasthan,4,6,12,53,6,6,28
+63,24,Female,Electrical Engineering,2,Karnataka,4,8,7,51,4,0,25
+64,22,Female,Chemical Engineering,2,Kerala,6,16,4,100,4,0,38
+65,25,Male,Civil Engineering,1,Karnataka,1,18,9,88,3,0,28
+66,23,Male,Computer Science,4,Andra Pradesh,5,13,8,32,6,4,65
+67,20,Female,Mechanical Engineering,3,Karnataka,9,15,13,63,4,2,70
+68,23,Male,Bio-Technology,4,Karnataka,9,13,13,81,7,5,40
+69,23,Male,Electrical Engineering,4,UP,9,13,4,46,2,2,66
+70,21,Male,Environmental Science,3,UP,10,8,9,28,4,1,57
+71,22,Male,IT,3,Rajasthan,10,13,14,56,1,1,23
+72,19,Female,Electrical Engineering,4,Karnataka,3,17,5,81,1,0,55
+73,27,Male,Mechanical Engineering,3,Andra Pradesh,2,19,6,89,3,1,58
+74,20,Female,Electrical Engineering,2,Tamil Nadu,1,12,4,39,1,1,92
+75,26,Male,Chemical Engineering,1,West Bengal,8,11,12,61,6,0,77
+76,21,Male,Civil Engineering,3,Maharashtra,6,15,14,73,2,2,42
+77,20,Female,Civil Engineering,2,Andra Pradesh,3,10,11,27,3,2,75
+78,25,Female,Environmental Science,1,Maharashtra,3,15,4,33,6,5,29
+79,24,Female,Bio-Technology,3,Delhi,5,5,11,69,6,4,50
+80,22,Female,Environmental Science,1,Gujarat,6,5,13,67,4,3,73
+81,26,Male,Bio-Technology,4,Tamil Nadu,10,7,12,25,4,1,19
+82,21,Female,Chemical Engineering,3,Maharashtra,4,5,15,26,4,4,84
+83,23,Female,IT,2,West Bengal,4,18,11,22,1,1,34
+84,18,Male,Bio-Technology,2,Rajasthan,5,8,7,69,1,1,75
+85,21,Male,Civil Engineering,1,Maharashtra,5,8,10,31,5,4,33
+86,18,Female,Civil Engineering,2,Kerala,2,19,4,75,6,2,96
+87,23,Female,Mechanical Engineering,2,Tamil Nadu,10,16,6,42,2,2,42
+88,24,Female,Bio-Technology,3,Telenagana,7,12,12,72,6,4,55
+89,22,Female,Chemical Engineering,1,Andra Pradesh,10,14,4,24,4,4,87
+90,19,Female,Mechanical Engineering,2,Andra Pradesh,4,13,15,62,2,0,19
+91,21,Female,Mechanical Engineering,4,West Bengal,2,11,15,82,4,0,91
+92,27,Female,Computer Science,3,West Bengal,6,6,8,66,7,0,63
+93,23,Male,Civil Engineering,2,Rajasthan,8,5,8,90,3,1,22
+94,21,Female,Environmental Science,2,Tamil Nadu,3,7,12,86,7,0,61
+95,25,Female,Environmental Science,2,Delhi,8,6,14,81,2,0,70
+96,24,Male,Chemical Engineering,3,Kerala,10,11,9,65,2,0,75
+97,25,Male,Bio-Technology,3,Rajasthan,2,8,15,48,7,4,42
+98,20,Female,Mechanical Engineering,1,Gujarat,10,8,14,89,1,0,21
+99,22,Female,Civil Engineering,3,Gujarat,5,7,14,78,5,1,42
+100,20,Female,Bio-Technology,2,UP,1,9,6,96,1,0,17
+101,21,Female,Mechanical Engineering,2,Kerala,10,17,9,69,2,2,69
+102,26,Male,Bio-Technology,4,UP,7,10,6,71,3,2,49
+103,26,Female,Computer Science,3,Karnataka,2,8,5,77,1,1,47
+104,22,Female,Bio-Technology,2,Telenagana,1,10,4,68,5,1,96
+105,27,Male,Environmental Science,4,Rajasthan,6,13,5,35,6,5,37
+106,24,Male,IT,1,Telenagana,6,14,6,33,4,4,25
+107,27,Female,Bio-Technology,1,Tamil Nadu,7,19,7,79,2,1,33
+108,24,Female,Computer Science,1,UP,7,7,10,31,1,0,23
+109,23,Male,Bio-Technology,2,Rajasthan,2,19,9,77,6,4,50
+110,21,Female,Electrical Engineering,2,Delhi,4,13,7,73,7,4,66
+111,20,Male,Computer Science,1,Kerala,10,18,12,31,1,1,25
+112,26,Male,IT,4,Gujarat,1,15,3,80,6,3,53
+113,25,Female,Electrical Engineering,1,Telenagana,7,13,10,82,3,1,72
+114,19,Male,Computer Science,3,Maharashtra,1,10,11,30,2,1,68
+115,18,Male,Civil Engineering,2,Kerala,5,7,8,42,4,3,82
+116,19,Male,Mechanical Engineering,2,Telenagana,9,13,14,73,3,0,42
+117,20,Female,Computer Science,3,Tamil Nadu,1,6,4,75,2,1,100
+118,20,Female,IT,2,Tamil Nadu,6,17,8,19,2,2,48
+119,24,Male,Chemical Engineering,3,Andra Pradesh,9,17,11,35,6,3,38
+120,27,Female,Mechanical Engineering,1,Andra Pradesh,10,15,9,86,1,0,21
+121,19,Male,Computer Science,1,UP,3,6,10,62,6,4,26
+122,24,Male,Mechanical Engineering,2,West Bengal,6,13,13,30,5,1,69
+123,24,Female,Bio-Technology,2,Kerala,9,13,6,92,2,0,58
+124,27,Female,Computer Science,1,Karnataka,4,10,7,67,4,2,53
+125,25,Female,Electrical Engineering,3,Andra Pradesh,3,19,15,29,6,5,36
+126,26,Male,IT,1,Karnataka,1,7,5,30,1,0,40
+127,22,Male,Environmental Science,3,Maharashtra,7,20,8,62,7,5,59
+128,26,Male,Environmental Science,4,Delhi,8,11,10,88,6,4,68
+129,18,Female,IT,1,Kerala,10,17,14,52,7,2,76
+130,19,Female,Chemical Engineering,3,Rajasthan,10,10,8,20,5,3,75
+131,26,Male,IT,3,Gujarat,9,20,7,81,6,6,83
+132,22,Female,Bio-Technology,3,Maharashtra,2,8,3,34,6,1,35
+133,23,Female,IT,2,Karnataka,4,9,13,30,6,2,70
+134,19,Female,IT,2,Karnataka,7,18,12,62,6,6,60
+135,22,Female,Mechanical Engineering,4,Karnataka,5,11,3,54,1,1,88
+136,24,Male,Environmental Science,4,Tamil Nadu,7,8,14,62,4,3,64
+137,20,Female,Chemical Engineering,3,UP,3,19,13,53,6,0,16
+138,25,Male,Mechanical Engineering,2,Delhi,3,13,15,52,3,1,86
+139,18,Male,Environmental Science,3,Rajasthan,6,8,3,77,4,0,91
+140,22,Male,IT,2,Maharashtra,2,6,14,18,1,1,40
+141,26,Female,Environmental Science,2,Telenagana,8,7,15,33,5,0,24
+142,20,Female,Civil Engineering,4,Tamil Nadu,10,7,13,33,1,0,100
+143,26,Male,Computer Science,3,Delhi,1,13,6,90,1,1,89
+144,19,Female,Computer Science,3,Andra Pradesh,9,19,7,68,7,1,93
+145,22,Male,Electrical Engineering,2,Rajasthan,7,5,11,21,4,2,33
+146,26,Female,Bio-Technology,2,Andra Pradesh,5,20,9,54,7,1,56
+147,27,Male,IT,1,Andra Pradesh,2,9,7,51,2,1,100
+148,21,Female,IT,4,Maharashtra,7,5,13,42,2,1,55
+149,20,Female,Civil Engineering,1,UP,9,6,14,38,3,2,16
+150,23,Female,Civil Engineering,2,Karnataka,7,17,8,77,2,0,34
+151,20,Female,Bio-Technology,3,Rajasthan,3,13,15,15,2,0,73
+152,26,Female,Chemical Engineering,2,Telenagana,3,9,13,30,1,1,33
+153,26,Male,Environmental Science,1,West Bengal,8,15,4,85,1,0,78
+154,18,Male,Electrical Engineering,4,Maharashtra,9,17,11,59,4,0,55
+155,27,Female,Civil Engineering,2,West Bengal,4,5,6,23,1,1,29
+156,23,Male,Mechanical Engineering,3,Karnataka,8,20,10,20,1,0,67
+157,25,Female,Computer Science,1,UP,7,20,9,68,3,3,48
+158,18,Male,IT,2,UP,10,18,3,76,7,1,81
+159,19,Male,Computer Science,3,Karnataka,4,17,9,88,2,0,15
+160,23,Female,Civil Engineering,3,Karnataka,9,7,7,54,6,1,72
+161,22,Female,Civil Engineering,2,Rajasthan,10,12,7,87,6,4,31
+162,21,Female,Mechanical Engineering,1,Kerala,9,5,4,72,1,1,96
+163,18,Male,Mechanical Engineering,3,West Bengal,4,17,15,58,2,2,72
+164,21,Male,Computer Science,4,UP,4,20,6,63,1,1,96
+165,27,Male,Bio-Technology,1,Karnataka,2,8,7,75,7,1,89
+166,19,Male,Computer Science,3,West Bengal,5,16,6,92,7,5,27
+167,19,Female,Civil Engineering,2,Karnataka,7,15,5,31,7,4,19
+168,25,Female,Computer Science,2,Gujarat,6,14,10,32,6,4,42
+169,19,Male,IT,1,Karnataka,10,17,13,79,2,1,39
+170,26,Male,Bio-Technology,3,Kerala,2,6,8,96,6,4,68
+171,20,Male,Civil Engineering,3,Telenagana,2,7,15,73,2,0,84
+172,20,Male,Civil Engineering,1,UP,7,16,15,72,1,0,36
+173,25,Female,Computer Science,1,UP,7,15,13,100,4,1,91
+174,26,Female,Environmental Science,1,Rajasthan,6,7,9,72,5,2,63
+175,20,Female,Electrical Engineering,4,West Bengal,6,19,15,34,1,1,42
+176,22,Female,Civil Engineering,4,Rajasthan,4,14,3,56,7,2,59
+177,26,Male,Chemical Engineering,4,Gujarat,6,11,7,26,3,2,41
+178,27,Female,Chemical Engineering,2,Delhi,6,10,4,94,3,3,39
+179,24,Male,Civil Engineering,4,Maharashtra,10,6,15,100,5,3,88
+180,21,Female,Electrical Engineering,4,Andra Pradesh,1,17,10,94,6,4,16
+181,26,Female,Environmental Science,4,UP,5,11,10,67,2,0,62
+182,21,Female,Civil Engineering,3,Andra Pradesh,3,14,14,64,5,2,61
+183,22,Male,IT,4,Andra Pradesh,6,17,9,44,2,0,17
+184,24,Female,Electrical Engineering,1,Karnataka,10,8,8,65,5,5,53
+185,23,Male,Electrical Engineering,4,Maharashtra,8,16,14,58,4,4,54
+186,25,Female,Computer Science,2,Telenagana,10,20,9,84,4,1,79
+187,26,Female,Environmental Science,2,UP,3,7,4,20,1,0,30
+188,25,Male,IT,4,Karnataka,8,19,5,100,2,0,78
+189,19,Female,Bio-Technology,1,UP,1,11,14,71,2,1,98
+190,21,Male,Computer Science,1,Karnataka,4,9,7,50,1,1,73
+191,21,Female,Chemical Engineering,3,UP,4,6,11,97,3,0,67
+192,19,Female,IT,1,Rajasthan,6,11,4,26,3,2,67
+193,23,Male,Chemical Engineering,3,Kerala,3,5,8,36,2,2,60
+194,18,Female,IT,3,Gujarat,2,12,9,18,1,0,60
+195,27,Female,IT,1,Karnataka,2,20,12,88,4,4,84
+196,26,Male,Environmental Science,1,Rajasthan,1,17,14,95,6,3,69
+197,21,Male,Electrical Engineering,3,Tamil Nadu,4,7,11,54,3,3,81
+198,27,Female,IT,2,Andra Pradesh,10,14,14,86,1,0,57
+199,21,Male,Environmental Science,4,UP,3,20,8,97,4,3,29
+200,18,Male,Bio-Technology,2,UP,5,19,10,30,2,1,37
+201,19,Male,Civil Engineering,1,Delhi,1,5,14,97,4,3,73
+202,18,Male,Civil Engineering,1,Maharashtra,6,6,3,86,2,2,69
+203,21,Female,Electrical Engineering,3,Telenagana,2,15,15,25,1,1,62
+204,19,Male,Environmental Science,4,Telenagana,5,6,3,39,6,2,37
+205,18,Male,Bio-Technology,1,Karnataka,8,15,13,94,7,6,85
+206,23,Male,Computer Science,4,Delhi,8,6,13,84,3,1,91
+207,19,Male,IT,2,West Bengal,1,17,5,88,6,2,35
+208,26,Male,IT,4,Maharashtra,6,8,13,21,5,5,84
+209,21,Male,Environmental Science,2,Kerala,4,11,10,87,3,0,70
+210,22,Male,IT,1,Kerala,9,19,15,81,1,1,63
+211,25,Female,Civil Engineering,1,Rajasthan,4,9,13,39,1,1,51
+212,21,Male,Electrical Engineering,3,Telenagana,4,12,5,75,2,1,99
+213,26,Male,Civil Engineering,2,Karnataka,9,7,3,79,4,0,70
+214,20,Female,Chemical Engineering,2,UP,9,6,9,17,3,0,96
+215,27,Male,Mechanical Engineering,4,Delhi,5,9,6,30,7,1,51
+216,27,Male,Bio-Technology,3,Karnataka,9,20,13,99,5,5,94
+217,25,Female,Chemical Engineering,3,Andra Pradesh,8,5,7,83,4,1,27
+218,21,Male,Mechanical Engineering,3,UP,10,20,8,38,1,0,26
+219,25,Male,Civil Engineering,2,UP,3,6,12,17,6,1,28
+220,24,Male,Computer Science,1,West Bengal,1,12,4,50,5,4,26
+221,21,Male,Electrical Engineering,1,Kerala,7,9,4,41,7,0,98
+222,19,Male,IT,4,Kerala,10,5,5,46,7,1,17
+223,19,Female,Computer Science,4,Delhi,9,10,6,89,5,5,93
+224,24,Male,Mechanical Engineering,2,Delhi,1,6,11,71,2,1,67
+225,23,Female,Civil Engineering,1,Andra Pradesh,5,14,14,25,3,3,28
+226,24,Male,Civil Engineering,3,Rajasthan,3,8,15,83,1,0,78
+227,24,Male,Bio-Technology,1,Karnataka,1,19,13,92,5,3,94
+228,25,Female,Civil Engineering,4,UP,5,10,15,56,3,1,84
+229,18,Male,Chemical Engineering,1,Kerala,4,7,5,66,6,3,27
+230,19,Male,Electrical Engineering,3,West Bengal,10,8,12,90,6,3,96
+231,18,Female,Computer Science,4,Rajasthan,5,8,13,20,4,4,71
+232,24,Male,Civil Engineering,2,Rajasthan,1,20,9,77,6,5,79
+233,23,Male,Civil Engineering,1,Telenagana,8,12,15,17,7,1,89
+234,19,Female,Mechanical Engineering,1,Kerala,1,7,8,58,6,3,19
+235,21,Female,Bio-Technology,2,Telenagana,2,11,10,70,2,0,100
+236,21,Female,Civil Engineering,2,Tamil Nadu,7,18,10,38,3,1,52
+237,21,Male,Civil Engineering,3,West Bengal,5,15,14,68,2,2,68
+238,26,Female,IT,1,Kerala,6,17,5,18,6,0,42
+239,25,Male,Civil Engineering,4,Telenagana,2,15,7,82,7,6,43
+240,20,Male,Chemical Engineering,1,Maharashtra,1,8,5,55,6,5,73
+241,24,Female,Electrical Engineering,3,Andra Pradesh,5,9,13,63,3,2,85
+242,20,Female,IT,4,Telenagana,7,15,12,47,7,3,63
+243,22,Male,Bio-Technology,4,Tamil Nadu,4,11,8,26,6,5,29
+244,25,Male,Chemical Engineering,4,UP,7,6,15,29,4,4,40
+245,21,Female,Electrical Engineering,3,UP,9,10,7,27,1,0,75
+246,19,Female,Electrical Engineering,1,Delhi,2,15,6,84,3,3,30
+247,25,Female,Chemical Engineering,4,Telenagana,6,7,4,36,1,0,59
+248,26,Male,Bio-Technology,2,Karnataka,8,8,9,51,5,5,74
+249,19,Female,Bio-Technology,3,Gujarat,10,13,8,33,5,4,67
+250,18,Female,Mechanical Engineering,4,Andra Pradesh,9,9,5,38,4,1,97
+251,26,Male,Bio-Technology,3,Maharashtra,2,18,9,47,4,1,65
+252,18,Male,Chemical Engineering,2,Delhi,3,10,9,26,5,0,15
+253,19,Female,Civil Engineering,4,Gujarat,4,16,12,34,6,2,62
+254,21,Male,Chemical Engineering,1,UP,9,10,6,54,6,6,43
+255,20,Male,Chemical Engineering,3,Kerala,8,19,3,67,2,0,79
+256,24,Male,IT,4,Telenagana,9,12,3,36,5,4,51
+257,25,Female,Computer Science,4,Gujarat,1,6,11,22,5,2,49
+258,25,Female,Civil Engineering,3,Maharashtra,1,9,13,93,6,0,99
+259,21,Female,Environmental Science,2,West Bengal,4,8,12,56,1,1,48
+260,24,Female,Computer Science,3,West Bengal,9,17,13,38,2,1,54
+261,18,Female,Electrical Engineering,1,UP,5,10,6,18,1,1,68
+262,20,Female,IT,2,Kerala,6,5,4,22,5,1,45
+263,24,Male,Electrical Engineering,1,Delhi,8,20,10,53,7,5,15
+264,18,Male,Environmental Science,1,Kerala,7,7,6,64,1,0,68
+265,24,Male,Civil Engineering,3,West Bengal,3,5,7,27,3,2,19
+266,22,Female,Chemical Engineering,4,Telenagana,1,5,14,55,2,2,16
+267,25,Female,Civil Engineering,2,Rajasthan,6,10,5,33,6,1,18
+268,22,Male,IT,1,Maharashtra,6,7,3,67,4,4,34
+269,24,Female,Civil Engineering,4,Tamil Nadu,6,14,9,56,7,1,62
+270,26,Female,Bio-Technology,4,Telenagana,5,18,12,48,2,1,81
+271,25,Female,Chemical Engineering,4,Tamil Nadu,4,20,9,63,5,2,91
+272,20,Female,Electrical Engineering,2,Delhi,9,9,12,30,1,1,55
+273,21,Female,Bio-Technology,4,Karnataka,5,11,7,21,1,1,57
+274,22,Male,Bio-Technology,3,Telenagana,1,9,5,40,2,1,36
+275,21,Female,Bio-Technology,1,Rajasthan,5,13,4,45,3,1,88
+276,18,Female,Environmental Science,4,UP,7,19,8,91,4,0,70
+277,27,Female,Chemical Engineering,1,Gujarat,1,18,5,90,3,3,45
+278,26,Female,Environmental Science,2,Gujarat,9,12,12,45,2,0,86
+279,18,Female,Environmental Science,1,Kerala,5,10,4,78,2,1,65
+280,23,Male,Bio-Technology,4,Telenagana,4,6,3,80,4,4,39
+281,18,Female,Environmental Science,2,UP,3,10,14,79,2,0,93
+282,18,Male,Computer Science,2,Tamil Nadu,6,20,11,64,6,3,97
+283,27,Male,Computer Science,2,UP,7,7,9,29,1,1,65
+284,25,Male,Mechanical Engineering,2,Gujarat,3,14,15,49,2,0,21
+285,26,Male,Computer Science,2,Rajasthan,2,16,10,22,6,2,88
+286,26,Female,Computer Science,1,Telenagana,7,18,13,55,5,0,69
+287,20,Male,IT,4,Maharashtra,9,5,10,74,4,4,31
+288,18,Female,Environmental Science,1,Telenagana,10,12,4,85,6,3,96
+289,26,Male,Civil Engineering,4,Kerala,4,11,6,67,3,2,64
+290,19,Male,Mechanical Engineering,2,Kerala,7,8,14,23,2,1,37
+291,20,Female,Environmental Science,2,Andra Pradesh,4,8,6,76,3,2,66
+292,19,Male,Computer Science,3,Karnataka,10,16,6,18,3,0,55
+293,27,Female,Civil Engineering,3,Tamil Nadu,3,12,15,67,6,0,81
+294,19,Female,Bio-Technology,1,Kerala,7,19,7,96,7,5,35
+295,21,Female,Chemical Engineering,1,Kerala,5,11,7,44,7,2,70
+296,24,Male,Computer Science,4,Andra Pradesh,10,13,14,17,1,1,44
+297,19,Female,Bio-Technology,4,Gujarat,6,6,10,49,5,2,27
+298,27,Female,Bio-Technology,3,Gujarat,8,11,9,85,7,0,31
+299,21,Female,Computer Science,3,UP,9,8,5,90,4,0,79
+300,27,Male,Computer Science,4,Tamil Nadu,3,9,9,27,6,3,30
+301,27,Male,IT,1,Telenagana,4,20,6,46,7,7,95
+302,18,Male,Computer Science,4,Karnataka,3,20,12,86,3,1,88
+303,27,Female,Computer Science,1,Rajasthan,10,10,6,98,7,1,65
+304,19,Male,Electrical Engineering,4,Delhi,9,10,7,31,1,0,95
+305,24,Male,Electrical Engineering,2,Maharashtra,4,6,14,53,2,1,48
+306,27,Female,Computer Science,2,Andra Pradesh,3,6,13,87,7,1,85
+307,27,Female,IT,1,Karnataka,5,16,6,67,6,3,35
+308,26,Male,Environmental Science,1,Delhi,9,14,9,72,3,0,56
+309,23,Female,Mechanical Engineering,1,Maharashtra,3,11,5,25,3,1,41
+310,22,Male,Mechanical Engineering,3,Kerala,7,18,9,96,2,2,26
+311,21,Female,Environmental Science,3,Telenagana,3,13,15,79,2,1,26
+312,23,Male,Civil Engineering,4,Tamil Nadu,10,15,5,41,5,1,18
+313,21,Female,Civil Engineering,3,Kerala,3,19,3,33,1,1,70
+314,22,Male,Electrical Engineering,4,UP,6,6,7,62,6,3,16
+315,24,Male,Chemical Engineering,4,Rajasthan,2,8,7,84,2,1,95
+316,20,Female,Electrical Engineering,4,West Bengal,9,6,6,36,7,4,90
+317,22,Female,IT,1,Karnataka,9,10,12,46,6,2,34
+318,25,Female,Mechanical Engineering,2,Telenagana,2,10,10,83,6,3,18
+319,23,Female,Chemical Engineering,3,Rajasthan,3,5,6,69,6,1,94
+320,19,Male,IT,4,West Bengal,6,20,8,86,2,2,84
+321,18,Male,Bio-Technology,2,Delhi,3,8,12,72,5,2,25
+322,25,Male,Civil Engineering,4,Karnataka,1,7,13,20,7,1,88
+323,27,Female,Civil Engineering,1,Andra Pradesh,6,12,13,15,4,3,63
+324,27,Male,Electrical Engineering,4,UP,7,19,10,74,5,5,18
+325,19,Male,Mechanical Engineering,3,Telenagana,7,15,4,94,3,3,31
+326,19,Male,Computer Science,2,Delhi,5,18,3,52,2,0,73
+327,26,Male,Mechanical Engineering,1,Delhi,8,11,10,98,4,1,96
+328,21,Male,IT,4,Gujarat,5,15,5,36,6,2,95
+329,26,Female,IT,3,Maharashtra,3,12,8,15,1,1,60
+330,22,Female,IT,3,Tamil Nadu,4,8,14,22,1,0,38
+331,20,Female,Bio-Technology,1,Delhi,2,15,9,76,7,5,45
+332,23,Female,Computer Science,3,UP,3,12,13,49,4,1,98
+333,19,Male,Computer Science,3,West Bengal,3,8,6,91,1,0,43
+334,21,Female,Environmental Science,3,Telenagana,1,12,14,47,2,0,53
+335,23,Female,Mechanical Engineering,3,Telenagana,10,18,9,63,1,1,39
+336,22,Female,Bio-Technology,4,UP,10,11,14,59,6,0,83
+337,20,Male,IT,1,Rajasthan,5,17,9,95,2,0,46
+338,25,Male,Chemical Engineering,2,Kerala,10,12,14,42,2,1,63
+339,26,Male,Mechanical Engineering,2,Gujarat,10,7,12,89,2,1,48
+340,22,Male,Computer Science,3,UP,10,20,7,80,1,1,99
+341,27,Male,Civil Engineering,4,West Bengal,4,20,4,51,2,0,21
+342,26,Male,Civil Engineering,3,Karnataka,10,6,4,20,5,1,50
+343,18,Female,Bio-Technology,3,Rajasthan,4,18,11,35,5,5,25
+344,26,Female,Electrical Engineering,4,Andra Pradesh,4,9,3,83,7,3,33
+345,22,Female,Computer Science,1,Andra Pradesh,1,11,3,87,7,7,95
+346,19,Female,Mechanical Engineering,2,West Bengal,6,19,8,23,2,2,17
+347,20,Female,Electrical Engineering,4,Maharashtra,2,10,6,53,2,1,96
+348,22,Female,Computer Science,2,Rajasthan,8,17,10,26,5,0,89
+349,19,Female,Environmental Science,4,Kerala,3,16,8,65,1,1,28
+350,19,Male,Chemical Engineering,4,Gujarat,9,9,12,30,4,3,29
+351,26,Male,Computer Science,3,Maharashtra,10,19,13,32,6,4,73
+352,20,Female,Civil Engineering,1,West Bengal,8,11,15,86,4,3,91
+353,22,Female,Environmental Science,2,UP,6,16,12,50,3,1,30
+354,22,Male,IT,1,Kerala,3,13,14,70,2,1,28
+355,27,Female,Mechanical Engineering,3,Kerala,7,11,14,41,6,6,33
+356,21,Female,Electrical Engineering,4,Maharashtra,8,15,15,93,2,1,51
+357,23,Female,Environmental Science,2,UP,8,9,3,79,2,2,48
+358,21,Male,Civil Engineering,1,Karnataka,3,6,3,55,4,3,38
+359,22,Male,IT,2,Rajasthan,3,6,7,58,2,0,26
+360,26,Female,Chemical Engineering,2,West Bengal,4,13,11,96,5,0,24
+361,25,Male,IT,2,Tamil Nadu,4,9,12,48,2,0,78
+362,22,Male,Environmental Science,1,Maharashtra,1,8,9,72,3,0,61
+363,18,Male,Mechanical Engineering,2,Rajasthan,7,19,7,49,3,1,41
+364,19,Female,Chemical Engineering,1,West Bengal,1,19,9,46,5,1,65
+365,24,Male,Computer Science,4,Karnataka,5,18,13,99,4,2,27
+366,22,Male,Mechanical Engineering,1,Delhi,7,10,8,56,6,4,77
+367,18,Female,IT,3,Gujarat,4,15,5,58,2,0,17
+368,18,Female,Civil Engineering,2,Telenagana,4,12,11,41,3,1,67
+369,23,Female,Mechanical Engineering,3,Tamil Nadu,4,14,3,73,7,0,24
+370,20,Male,Chemical Engineering,3,Rajasthan,2,10,12,91,7,5,77
+371,22,Male,IT,4,Telenagana,3,10,5,57,4,3,95
+372,20,Female,Chemical Engineering,4,Telenagana,8,12,7,17,1,0,24
+373,25,Female,Computer Science,1,UP,10,7,5,32,3,3,41
+374,26,Male,Electrical Engineering,1,Maharashtra,8,18,11,97,4,3,68
+375,24,Male,Bio-Technology,2,Kerala,6,20,10,15,4,2,63
+376,26,Female,Bio-Technology,3,West Bengal,8,11,8,92,2,1,55
+377,18,Male,Civil Engineering,4,Delhi,4,20,10,75,4,3,96
+378,19,Female,Chemical Engineering,4,Delhi,7,19,5,15,4,0,72
+379,19,Male,IT,2,Kerala,7,13,4,16,4,3,35
+380,20,Female,IT,4,Gujarat,1,5,8,37,5,1,38
+381,26,Male,Environmental Science,3,Kerala,10,18,14,67,5,4,53
+382,18,Female,IT,3,UP,7,12,11,86,6,1,16
+383,23,Male,Mechanical Engineering,2,Tamil Nadu,6,12,9,77,4,4,37
+384,27,Female,Electrical Engineering,3,Tamil Nadu,7,15,5,65,7,2,99
+385,26,Male,Civil Engineering,1,Gujarat,10,18,7,83,2,0,87
+386,20,Female,Mechanical Engineering,3,Maharashtra,10,12,4,25,7,4,95
+387,24,Female,Mechanical Engineering,1,UP,10,9,8,98,7,1,92
+388,20,Female,Electrical Engineering,4,Maharashtra,9,5,3,98,4,2,19
+389,18,Female,Environmental Science,1,Andra Pradesh,9,18,5,24,1,0,30
+390,22,Female,IT,2,Telenagana,1,6,10,83,7,6,58
+391,23,Male,Environmental Science,2,UP,9,6,7,18,4,1,59
+392,18,Female,IT,2,West Bengal,2,20,14,100,4,3,76
+393,23,Male,Chemical Engineering,2,Gujarat,8,6,8,71,7,1,93
+394,21,Female,Chemical Engineering,2,Karnataka,8,18,9,30,1,0,91
+395,21,Male,Mechanical Engineering,3,Telenagana,1,17,7,60,7,3,84
+396,19,Female,Mechanical Engineering,4,Kerala,4,20,7,63,3,1,15
+397,23,Female,Computer Science,1,Delhi,9,8,12,91,5,1,35
+398,26,Male,Electrical Engineering,1,Kerala,9,19,15,60,5,0,81
+399,24,Female,Bio-Technology,4,Delhi,7,20,7,64,2,0,47
+400,27,Male,Chemical Engineering,2,Kerala,1,12,11,37,5,3,30
+401,20,Male,Electrical Engineering,2,Gujarat,9,7,8,16,6,0,39
+402,21,Female,Mechanical Engineering,1,Tamil Nadu,7,5,9,30,2,1,92
+403,20,Female,Environmental Science,2,Delhi,9,18,5,74,3,1,18
+404,20,Male,Mechanical Engineering,3,Kerala,1,11,8,62,4,1,83
+405,24,Female,Environmental Science,3,Gujarat,4,9,14,39,4,3,17
+406,18,Female,IT,3,Kerala,5,16,10,71,3,0,81
+407,20,Female,Bio-Technology,4,UP,8,14,15,16,4,4,80
+408,23,Male,IT,4,Gujarat,7,12,5,43,3,1,34
+409,24,Female,Mechanical Engineering,3,Andra Pradesh,5,7,11,17,4,0,42
+410,21,Male,Computer Science,4,Telenagana,5,5,13,50,5,0,61
+411,22,Male,Mechanical Engineering,3,UP,8,20,13,60,5,3,29
+412,20,Male,Chemical Engineering,2,Andra Pradesh,3,14,15,39,4,3,42
+413,19,Male,Mechanical Engineering,4,Maharashtra,7,10,10,26,1,1,18
+414,24,Female,Chemical Engineering,3,Tamil Nadu,5,19,3,93,3,1,56
+415,18,Female,IT,4,Andra Pradesh,10,5,6,95,2,0,32
+416,25,Male,Computer Science,1,Rajasthan,1,19,5,53,6,2,43
+417,21,Male,Electrical Engineering,1,Andra Pradesh,9,19,3,43,4,3,25
+418,21,Male,IT,3,UP,3,9,6,44,2,1,31
+419,25,Male,IT,3,West Bengal,8,17,5,78,2,0,49
+420,23,Female,Mechanical Engineering,3,Andra Pradesh,8,10,3,61,2,2,50
+421,22,Male,Civil Engineering,1,Delhi,2,16,10,19,1,1,76
+422,21,Male,Environmental Science,4,Gujarat,9,19,7,50,1,0,40
+423,21,Male,IT,1,Delhi,2,5,5,78,7,4,26
+424,18,Male,Environmental Science,3,Telenagana,3,7,14,92,5,0,59
+425,21,Male,Environmental Science,3,Rajasthan,10,17,10,41,6,2,85
+426,24,Female,Electrical Engineering,3,Maharashtra,9,15,9,15,6,2,98
+427,23,Female,Electrical Engineering,3,Rajasthan,3,6,4,40,3,2,52
+428,22,Female,Electrical Engineering,3,Maharashtra,7,14,10,96,4,2,74
+429,19,Female,Bio-Technology,3,Tamil Nadu,7,18,3,65,4,3,78
+430,22,Female,Environmental Science,2,Telenagana,6,13,10,29,4,1,70
+431,23,Male,Mechanical Engineering,2,Tamil Nadu,8,11,8,50,4,2,80
+432,26,Female,Environmental Science,2,Kerala,1,7,14,87,6,0,66
+433,24,Male,IT,1,Kerala,3,15,11,79,3,1,39
+434,26,Female,Electrical Engineering,4,West Bengal,8,6,10,78,4,0,47
+435,23,Female,IT,3,Gujarat,10,16,10,36,4,0,37
+436,18,Female,Electrical Engineering,2,Maharashtra,4,6,10,85,3,0,40
+437,19,Female,Bio-Technology,1,Gujarat,8,8,4,39,6,5,50
+438,22,Male,Mechanical Engineering,4,Delhi,2,17,14,99,5,5,65
+439,20,Female,Chemical Engineering,3,Telenagana,5,16,5,87,1,1,28
+440,27,Male,Electrical Engineering,3,Rajasthan,6,19,4,92,4,1,89
+441,22,Female,Civil Engineering,4,Tamil Nadu,3,6,8,87,1,1,90
+442,18,Female,Bio-Technology,4,Delhi,2,16,4,37,1,1,54
+443,19,Female,Civil Engineering,4,Kerala,2,16,6,23,4,2,36
+444,27,Male,Bio-Technology,1,Karnataka,2,10,7,90,5,4,41
+445,24,Male,Mechanical Engineering,2,Andra Pradesh,8,7,5,31,2,0,77
+446,23,Female,Environmental Science,3,Tamil Nadu,6,11,5,23,2,1,70
+447,23,Female,Electrical Engineering,2,Tamil Nadu,2,9,14,31,7,2,72
+448,24,Male,Computer Science,4,Maharashtra,9,15,11,48,4,2,69
+449,27,Male,IT,3,UP,7,12,7,87,3,3,91
+450,26,Female,Chemical Engineering,3,Gujarat,9,8,12,44,7,5,49
+451,19,Female,IT,2,Karnataka,10,20,13,81,7,5,55
+452,24,Male,Chemical Engineering,2,Rajasthan,3,11,12,50,6,2,94
+453,27,Female,Bio-Technology,3,Maharashtra,7,12,6,39,3,0,28
+454,21,Male,Chemical Engineering,1,Andra Pradesh,9,15,12,17,5,0,92
+455,22,Female,IT,4,Maharashtra,7,16,3,83,6,5,64
+456,18,Female,Environmental Science,2,Maharashtra,1,13,11,93,4,0,69
+457,24,Male,Electrical Engineering,3,Maharashtra,3,18,15,47,6,5,40
+458,18,Male,Chemical Engineering,2,Gujarat,6,13,12,86,6,4,87
+459,26,Female,Civil Engineering,3,Maharashtra,10,6,5,73,3,1,60
+460,26,Male,Bio-Technology,1,Maharashtra,3,7,9,15,6,2,62
+461,21,Female,Chemical Engineering,2,Maharashtra,3,16,4,69,1,1,95
+462,23,Male,Environmental Science,3,Maharashtra,3,16,6,97,6,5,23
+463,24,Male,IT,2,UP,3,19,15,98,4,2,72
+464,19,Male,Chemical Engineering,3,Tamil Nadu,1,20,10,21,4,4,36
+465,23,Male,Electrical Engineering,4,Karnataka,7,8,13,56,6,4,19
+466,27,Female,Bio-Technology,3,Delhi,5,20,4,70,2,2,80
+467,23,Female,Civil Engineering,3,Delhi,5,14,8,67,2,1,47
+468,19,Male,Chemical Engineering,3,Delhi,8,19,3,50,4,1,90
+469,22,Female,IT,3,Rajasthan,5,16,7,30,1,1,67
+470,26,Female,Electrical Engineering,4,Rajasthan,3,7,13,81,7,3,52
+471,22,Female,IT,1,Andra Pradesh,2,11,13,74,3,3,92
+472,24,Female,Chemical Engineering,4,UP,3,19,4,78,6,0,97
+473,23,Female,Mechanical Engineering,1,West Bengal,4,7,9,61,6,0,82
+474,24,Female,Civil Engineering,1,Kerala,1,7,8,81,6,1,60
+475,22,Male,Environmental Science,4,West Bengal,10,17,12,20,1,0,65
+476,26,Female,Computer Science,2,Andra Pradesh,5,10,4,43,6,0,18
+477,20,Male,Bio-Technology,1,Tamil Nadu,1,14,8,21,6,4,29
+478,21,Female,Civil Engineering,4,UP,8,7,5,50,6,5,38
+479,24,Male,Bio-Technology,3,Tamil Nadu,8,8,3,68,2,0,56
+480,24,Female,Electrical Engineering,4,Andra Pradesh,8,10,4,83,3,1,69
+481,20,Female,Mechanical Engineering,1,UP,9,13,10,72,5,5,38
+482,27,Female,IT,2,Gujarat,1,8,14,55,4,3,60
+483,27,Male,Bio-Technology,2,Andra Pradesh,10,9,13,15,6,0,46
+484,22,Female,Environmental Science,2,Karnataka,8,20,10,65,2,0,24
+485,24,Male,Electrical Engineering,3,Kerala,4,9,10,39,3,2,42
+486,26,Male,Civil Engineering,4,Gujarat,4,11,13,57,2,1,99
+487,18,Female,Electrical Engineering,4,Telenagana,10,5,7,25,5,5,62
+488,22,Female,Environmental Science,2,Maharashtra,8,14,12,88,5,3,62
+489,22,Female,IT,3,UP,8,18,13,18,6,6,33
+490,21,Male,IT,2,Karnataka,7,9,3,43,7,3,55
+491,24,Male,Mechanical Engineering,1,West Bengal,8,20,8,69,2,2,30
+492,27,Female,Bio-Technology,4,Kerala,2,16,3,24,1,0,16
+493,27,Female,Bio-Technology,3,Telenagana,10,18,13,46,1,0,55
+494,23,Female,IT,2,Andra Pradesh,10,19,12,40,7,2,16
+495,25,Male,IT,3,Kerala,1,5,10,36,1,0,57
+496,25,Male,Computer Science,1,West Bengal,4,14,8,57,6,3,42
+497,25,Female,Chemical Engineering,1,Kerala,9,11,14,54,6,4,74
+498,21,Female,Mechanical Engineering,4,Tamil Nadu,5,7,14,23,4,2,87
+499,26,Male,Mechanical Engineering,3,Telenagana,10,5,15,95,4,4,56
+500,25,Female,Civil Engineering,2,Rajasthan,9,12,12,95,6,2,44
+501,20,Female,Chemical Engineering,2,Karnataka,4,15,5,27,5,2,86
+502,19,Male,Environmental Science,2,Andra Pradesh,1,18,6,18,1,1,23
+503,22,Male,Computer Science,4,Delhi,3,15,3,76,5,5,64
+504,26,Female,IT,1,Kerala,3,15,15,70,2,2,51
+505,27,Female,Chemical Engineering,2,Andra Pradesh,1,20,13,18,4,0,92
+506,23,Male,IT,4,Tamil Nadu,6,19,7,90,2,1,42
+507,19,Male,Mechanical Engineering,4,West Bengal,1,19,8,95,7,1,82
+508,21,Male,Computer Science,4,West Bengal,3,14,15,57,4,3,42
+509,22,Male,Mechanical Engineering,4,Rajasthan,1,9,3,47,3,3,28
+510,21,Male,Electrical Engineering,4,Maharashtra,10,14,14,46,6,4,86
+511,21,Female,Civil Engineering,4,Telenagana,10,10,4,28,3,0,50
+512,20,Male,Civil Engineering,1,UP,5,13,11,75,5,1,92
+513,18,Male,Bio-Technology,1,Delhi,6,12,12,45,5,4,100
+514,18,Female,Chemical Engineering,2,Tamil Nadu,2,20,9,58,6,2,24
+515,21,Male,IT,3,Tamil Nadu,1,16,4,21,4,1,88
+516,25,Female,Bio-Technology,1,UP,2,14,9,57,5,2,97
+517,27,Male,Environmental Science,3,Gujarat,7,6,7,81,3,0,68
+518,19,Male,Chemical Engineering,2,Karnataka,3,9,5,45,6,4,70
+519,25,Male,Computer Science,1,Kerala,3,16,6,24,4,0,55
+520,24,Male,Bio-Technology,1,Gujarat,5,14,15,91,7,3,55
+521,27,Female,Mechanical Engineering,2,Maharashtra,10,19,9,94,6,5,40
+522,21,Male,Electrical Engineering,2,Gujarat,10,10,4,71,7,6,40
+523,24,Female,IT,3,Andra Pradesh,10,10,3,27,1,1,21
+524,25,Female,Mechanical Engineering,3,UP,9,14,6,95,1,0,78
+525,24,Male,Mechanical Engineering,2,Tamil Nadu,3,10,5,72,6,1,78
+526,21,Female,Environmental Science,1,Tamil Nadu,8,10,9,89,5,3,20
+527,20,Female,Chemical Engineering,4,Karnataka,10,9,15,30,7,6,50
+528,18,Female,Electrical Engineering,3,Andra Pradesh,6,10,9,25,7,6,68
+529,19,Male,Chemical Engineering,2,Telenagana,1,12,7,22,3,3,30
+530,24,Male,Bio-Technology,1,Maharashtra,2,8,13,19,7,4,30
+531,21,Female,Civil Engineering,1,Telenagana,5,6,15,63,2,0,72
+532,20,Female,Bio-Technology,3,Tamil Nadu,6,15,13,55,3,1,36
+533,26,Male,Chemical Engineering,3,Tamil Nadu,6,9,5,23,6,0,91
+534,25,Female,Bio-Technology,4,Telenagana,7,19,4,31,2,0,56
+535,18,Female,Mechanical Engineering,3,Gujarat,2,13,7,22,6,4,90
+536,26,Female,Bio-Technology,4,Andra Pradesh,7,16,10,71,4,1,64
+537,21,Female,Bio-Technology,2,Karnataka,9,10,15,22,6,4,45
+538,19,Female,Chemical Engineering,3,UP,2,11,9,53,3,0,88
+539,25,Female,Mechanical Engineering,4,Karnataka,5,6,14,93,1,1,17
+540,20,Male,Electrical Engineering,3,UP,8,15,15,95,2,2,51
+541,25,Male,Computer Science,2,Rajasthan,3,16,7,70,7,4,17
+542,26,Male,Mechanical Engineering,2,Maharashtra,2,9,13,23,4,2,97
+543,26,Female,Computer Science,4,Delhi,5,16,12,28,1,0,88
+544,27,Male,Chemical Engineering,1,Gujarat,6,19,5,22,1,1,15
+545,23,Female,Mechanical Engineering,2,Maharashtra,9,10,8,86,1,1,74
+546,25,Female,Environmental Science,2,Kerala,7,14,13,21,7,1,51
+547,27,Male,Civil Engineering,2,Telenagana,9,8,4,52,6,1,31
+548,26,Male,Environmental Science,2,Telenagana,4,5,8,63,4,1,66
+549,24,Female,Environmental Science,1,Maharashtra,4,17,11,66,5,0,19
+550,26,Male,Chemical Engineering,2,Karnataka,10,20,6,27,4,4,83
+551,25,Male,IT,1,Karnataka,1,9,10,94,6,1,82
+552,20,Female,Bio-Technology,3,Andra Pradesh,2,19,10,67,3,2,20
+553,25,Female,Civil Engineering,1,West Bengal,10,15,9,44,6,0,58
+554,25,Male,IT,4,Karnataka,9,9,10,91,4,1,97
+555,22,Female,Environmental Science,3,Telenagana,2,5,7,99,2,1,17
+556,21,Male,Environmental Science,1,Andra Pradesh,8,15,12,94,2,0,23
+557,22,Male,IT,1,Karnataka,10,14,12,16,3,2,75
+558,26,Female,IT,1,Rajasthan,5,20,9,73,2,0,27
+559,25,Female,Computer Science,1,Kerala,7,14,4,64,6,5,68
+560,21,Male,Civil Engineering,1,Kerala,10,9,15,74,2,0,53
+561,22,Female,Bio-Technology,1,Tamil Nadu,6,19,9,69,2,0,50
+562,25,Male,IT,4,Andra Pradesh,5,15,15,94,4,4,55
+563,19,Female,IT,4,Gujarat,9,8,8,94,2,0,59
+564,22,Female,Computer Science,4,Gujarat,10,20,12,27,5,0,66
+565,21,Male,Civil Engineering,1,Kerala,10,6,5,58,1,1,25
+566,22,Female,Civil Engineering,3,UP,6,9,9,98,4,4,86
+567,23,Male,Electrical Engineering,4,West Bengal,3,8,13,18,5,2,55
+568,23,Female,Mechanical Engineering,2,Telenagana,10,14,9,73,7,5,78
+569,26,Male,Mechanical Engineering,2,Delhi,10,5,4,81,2,0,93
+570,19,Male,Environmental Science,1,Karnataka,8,17,3,57,2,2,21
+571,20,Female,Chemical Engineering,3,West Bengal,9,12,11,90,2,2,65
+572,20,Male,Chemical Engineering,4,Maharashtra,8,19,8,39,1,1,53
+573,21,Female,Civil Engineering,1,Gujarat,8,16,10,28,6,5,73
+574,24,Male,Bio-Technology,3,Andra Pradesh,3,7,13,28,2,0,78
+575,20,Male,Mechanical Engineering,2,Rajasthan,10,15,6,16,7,6,97
+576,21,Male,Electrical Engineering,4,Delhi,4,6,13,91,7,4,30
+577,19,Female,Bio-Technology,1,Andra Pradesh,5,11,13,23,2,1,62
+578,24,Female,Chemical Engineering,1,Tamil Nadu,4,12,14,90,3,0,94
+579,24,Male,IT,3,Gujarat,1,13,5,39,7,0,28
+580,23,Female,IT,1,Tamil Nadu,2,11,10,88,4,2,18
+581,26,Female,Mechanical Engineering,1,Tamil Nadu,1,5,11,31,4,1,43
+582,25,Male,Chemical Engineering,4,Kerala,8,7,13,96,6,5,21
+583,24,Male,Chemical Engineering,2,Kerala,2,19,13,80,5,2,16
+584,18,Male,Bio-Technology,2,Gujarat,4,7,11,47,1,0,32
+585,21,Female,Environmental Science,3,Tamil Nadu,10,17,4,60,7,4,28
+586,24,Male,Electrical Engineering,2,West Bengal,7,11,7,68,6,0,56
+587,24,Male,Mechanical Engineering,3,Telenagana,7,20,10,76,2,2,70
+588,27,Female,Environmental Science,4,Delhi,1,15,9,94,1,0,43
+589,18,Male,Chemical Engineering,3,Tamil Nadu,6,6,4,71,3,3,36
+590,27,Female,Mechanical Engineering,2,Rajasthan,6,16,15,38,1,1,26
+591,24,Male,Civil Engineering,1,UP,9,17,10,46,4,4,39
+592,25,Female,Electrical Engineering,4,Maharashtra,4,9,7,32,1,0,62
+593,18,Male,Mechanical Engineering,2,UP,1,18,5,20,3,3,83
+594,23,Male,Environmental Science,4,UP,4,16,5,22,1,0,15
+595,22,Male,Chemical Engineering,3,Rajasthan,5,17,13,31,3,2,21
+596,24,Female,Environmental Science,2,Rajasthan,5,16,7,54,1,1,48
+597,24,Female,IT,1,Kerala,2,5,6,89,5,1,20
+598,26,Male,IT,1,Karnataka,5,14,11,70,2,2,29
+599,26,Male,Environmental Science,1,Gujarat,5,16,9,80,4,3,21
+600,27,Female,IT,1,Tamil Nadu,9,16,7,98,4,1,53
+601,21,Male,IT,4,Tamil Nadu,9,14,12,60,6,3,24
+602,25,Male,Environmental Science,2,Rajasthan,6,19,3,54,7,3,48
+603,21,Male,Bio-Technology,1,Kerala,1,7,11,89,1,1,57
+604,22,Female,Environmental Science,1,Andra Pradesh,2,11,4,84,1,1,93
+605,24,Female,Environmental Science,1,Andra Pradesh,6,19,3,33,1,0,63
+606,25,Male,Bio-Technology,3,Delhi,6,18,11,33,3,3,49
+607,18,Female,Electrical Engineering,2,Telenagana,7,19,4,75,7,1,36
+608,24,Male,Environmental Science,4,UP,10,14,11,54,1,1,32
+609,23,Female,Environmental Science,3,Gujarat,10,10,9,92,6,1,89
+610,24,Male,Chemical Engineering,3,Andra Pradesh,1,18,9,58,5,3,73
+611,20,Male,Bio-Technology,4,Rajasthan,3,18,4,52,7,2,30
+612,25,Female,Computer Science,1,Karnataka,4,9,10,62,1,0,31
+613,20,Male,Chemical Engineering,1,Karnataka,6,7,13,16,1,0,55
+614,27,Male,Computer Science,2,Rajasthan,6,9,14,81,2,2,33
+615,26,Female,Bio-Technology,1,Tamil Nadu,8,11,12,90,5,3,89
+616,18,Female,Environmental Science,3,Telenagana,8,14,7,99,7,2,67
+617,24,Male,Civil Engineering,3,Rajasthan,1,20,8,33,1,1,96
+618,27,Female,IT,3,UP,3,15,7,22,4,0,72
+619,27,Female,Bio-Technology,4,UP,8,7,12,45,5,2,100
+620,18,Female,IT,1,Telenagana,3,17,4,79,5,1,30
+621,19,Male,Bio-Technology,1,Delhi,8,7,15,86,7,2,81
+622,24,Female,IT,1,Delhi,9,5,11,21,3,3,82
+623,20,Male,Bio-Technology,1,Karnataka,6,18,3,69,4,4,45
+624,25,Female,Bio-Technology,2,Tamil Nadu,8,13,4,59,4,1,88
+625,20,Male,Environmental Science,2,Maharashtra,7,18,14,40,7,1,76
+626,18,Male,Mechanical Engineering,3,Tamil Nadu,1,10,13,40,3,1,99
+627,22,Female,Computer Science,3,Tamil Nadu,9,19,10,96,5,0,77
+628,24,Male,Civil Engineering,4,Rajasthan,5,9,5,40,4,3,50
+629,23,Male,Electrical Engineering,3,Gujarat,10,11,15,23,3,1,56
+630,21,Female,Computer Science,1,Gujarat,6,10,5,58,3,3,76
+631,25,Female,Electrical Engineering,3,UP,9,17,9,39,6,5,43
+632,23,Male,Civil Engineering,3,Rajasthan,9,14,3,100,3,3,26
+633,23,Female,Electrical Engineering,2,Telenagana,1,20,4,75,3,0,48
+634,24,Female,Environmental Science,1,Gujarat,4,6,9,74,7,2,52
+635,22,Male,Bio-Technology,4,Andra Pradesh,10,14,14,91,2,2,25
+636,24,Male,Bio-Technology,4,Tamil Nadu,6,14,7,57,3,0,60
+637,22,Male,Mechanical Engineering,4,UP,6,20,8,89,6,4,86
+638,19,Female,Mechanical Engineering,3,Kerala,2,19,12,87,4,0,46
+639,25,Male,Electrical Engineering,4,Andra Pradesh,3,12,14,57,4,3,99
+640,18,Female,Chemical Engineering,4,Telenagana,5,5,10,93,5,3,97
+641,26,Male,Computer Science,4,Karnataka,1,5,15,53,1,0,41
+642,18,Male,Bio-Technology,2,Karnataka,6,9,13,68,3,0,24
+643,23,Male,Civil Engineering,1,West Bengal,7,13,10,57,7,0,24
+644,21,Male,IT,2,Karnataka,9,14,12,35,3,0,78
+645,19,Female,Mechanical Engineering,1,Maharashtra,3,20,15,28,7,2,22
+646,18,Female,Civil Engineering,2,Rajasthan,10,8,7,73,1,0,42
+647,18,Female,Electrical Engineering,1,Gujarat,10,14,8,20,1,0,16
+648,21,Female,Computer Science,4,Delhi,7,18,15,78,4,2,100
+649,21,Female,Bio-Technology,4,Maharashtra,3,10,5,43,7,2,42
+650,18,Male,Electrical Engineering,4,Karnataka,10,20,6,15,6,5,74
+651,27,Male,Chemical Engineering,2,Telenagana,2,12,5,96,4,4,64
+652,20,Female,Mechanical Engineering,4,Delhi,5,5,4,43,6,0,39
+653,21,Female,Bio-Technology,3,Delhi,6,8,14,44,7,0,77
+654,20,Male,Mechanical Engineering,1,Delhi,1,13,12,74,2,0,28
+655,25,Female,Civil Engineering,2,Andra Pradesh,5,20,7,94,1,1,58
+656,19,Female,Civil Engineering,4,Kerala,7,7,13,42,5,5,41
+657,27,Male,Chemical Engineering,4,West Bengal,2,16,4,45,1,0,90
+658,21,Female,IT,1,West Bengal,8,20,9,76,7,3,82
+659,25,Female,Environmental Science,4,Telenagana,4,18,11,57,5,1,80
+660,22,Female,Environmental Science,4,Kerala,6,13,3,63,3,3,55
+661,23,Female,Civil Engineering,1,Delhi,8,20,3,41,6,6,54
+662,20,Female,Civil Engineering,1,Delhi,5,8,9,66,7,7,73
+663,27,Female,Computer Science,3,Gujarat,4,16,4,38,7,2,98
+664,27,Male,Chemical Engineering,3,UP,9,5,3,15,2,1,34
+665,19,Female,Electrical Engineering,1,Karnataka,5,13,5,61,3,2,79
+666,20,Female,Environmental Science,2,Delhi,3,10,13,16,4,3,28
+667,22,Female,Chemical Engineering,3,Rajasthan,2,6,10,24,5,1,31
+668,19,Female,Electrical Engineering,1,Telenagana,6,9,10,60,6,1,43
+669,27,Male,Electrical Engineering,4,Gujarat,1,15,14,18,6,0,61
+670,18,Female,Electrical Engineering,2,Maharashtra,4,19,9,86,7,4,64
+671,22,Male,Mechanical Engineering,4,Maharashtra,2,9,13,29,4,4,72
+672,27,Female,Environmental Science,3,Gujarat,8,16,14,33,5,0,94
+673,24,Male,IT,4,Andra Pradesh,9,10,12,52,4,0,80
+674,24,Female,Computer Science,2,Rajasthan,1,6,14,71,6,6,40
+675,21,Female,Electrical Engineering,1,Karnataka,8,13,10,39,2,0,66
+676,19,Male,Environmental Science,1,Karnataka,9,16,7,95,1,0,39
+677,27,Male,Environmental Science,2,Kerala,3,18,12,89,6,4,23
+678,21,Female,Civil Engineering,4,Karnataka,4,16,12,61,7,4,50
+679,19,Female,Environmental Science,4,West Bengal,6,6,8,20,3,0,69
+680,22,Female,Chemical Engineering,2,West Bengal,8,14,14,18,1,1,36
+681,27,Female,Civil Engineering,1,Rajasthan,9,14,13,40,6,1,54
+682,19,Female,IT,4,Tamil Nadu,5,7,14,40,3,0,88
+683,27,Male,Bio-Technology,3,Tamil Nadu,6,11,13,51,7,3,97
+684,18,Female,Environmental Science,2,Andra Pradesh,3,10,9,37,1,0,28
+685,23,Female,Electrical Engineering,3,Andra Pradesh,2,8,15,43,7,3,33
+686,26,Female,IT,3,Kerala,9,10,7,48,6,3,74
+687,24,Male,IT,1,Gujarat,3,15,4,37,3,3,28
+688,23,Female,Bio-Technology,2,Kerala,4,15,5,58,6,1,29
+689,19,Female,Mechanical Engineering,4,Andra Pradesh,1,14,5,85,4,2,45
+690,26,Female,Mechanical Engineering,4,Karnataka,8,13,3,46,2,2,17
+691,23,Male,IT,2,Kerala,7,16,6,37,5,2,73
+692,18,Male,Electrical Engineering,1,Karnataka,9,8,4,40,4,1,38
+693,24,Female,Chemical Engineering,4,UP,2,16,3,17,4,3,49
+694,25,Female,Bio-Technology,4,UP,1,9,14,37,6,5,18
+695,19,Male,Bio-Technology,4,Andra Pradesh,5,5,6,48,5,5,75
+696,24,Male,Chemical Engineering,1,Rajasthan,1,9,3,27,7,1,99
+697,23,Male,Computer Science,4,Rajasthan,10,14,6,17,1,1,82
+698,25,Female,Mechanical Engineering,4,UP,2,16,10,32,3,1,72
+699,20,Male,Bio-Technology,3,Telenagana,6,20,13,63,4,0,60
+700,24,Male,Chemical Engineering,1,Kerala,8,18,5,98,4,1,48
+701,20,Male,Mechanical Engineering,4,Rajasthan,1,15,13,29,6,0,30
+702,26,Male,IT,1,Rajasthan,2,10,6,58,7,4,85
+703,22,Female,Civil Engineering,1,Kerala,9,8,9,41,6,2,25
+704,27,Female,IT,4,Gujarat,5,11,13,54,1,0,60
+705,26,Female,Civil Engineering,4,Tamil Nadu,1,9,15,73,6,4,70
+706,25,Male,Bio-Technology,1,Andra Pradesh,10,12,11,45,4,2,42
+707,25,Male,Electrical Engineering,1,Kerala,5,11,6,62,3,0,34
+708,24,Female,Chemical Engineering,1,Maharashtra,4,8,4,62,5,2,65
+709,27,Female,Electrical Engineering,3,Delhi,6,18,7,99,2,0,79
+710,22,Female,Chemical Engineering,2,Andra Pradesh,4,19,15,36,6,0,70
+711,23,Female,Environmental Science,4,Gujarat,4,7,10,82,2,2,80
+712,21,Male,Bio-Technology,3,Tamil Nadu,5,8,5,94,7,2,57
+713,19,Male,Chemical Engineering,3,Telenagana,5,9,10,70,5,1,21
+714,22,Female,Computer Science,1,Gujarat,9,5,9,23,5,3,71
+715,25,Female,Computer Science,2,Karnataka,6,20,3,30,7,5,49
+716,21,Female,Mechanical Engineering,4,Gujarat,8,16,4,33,7,2,62
+717,25,Female,Bio-Technology,3,West Bengal,2,14,5,31,6,5,27
+718,27,Male,Computer Science,4,West Bengal,5,16,5,39,5,3,21
+719,27,Male,Mechanical Engineering,3,Kerala,3,9,14,39,1,0,98
+720,24,Male,Environmental Science,4,Karnataka,3,19,14,83,2,2,63
+721,23,Male,Bio-Technology,1,Tamil Nadu,5,15,10,63,4,2,69
+722,18,Female,Bio-Technology,1,Gujarat,2,10,10,62,7,4,39
+723,25,Female,Computer Science,2,Andra Pradesh,1,14,10,55,1,1,52
+724,23,Male,IT,1,Kerala,10,5,3,91,3,0,39
+725,20,Female,Civil Engineering,3,West Bengal,9,8,10,69,7,4,66
+726,25,Female,Environmental Science,3,Andra Pradesh,9,12,12,96,6,3,37
+727,21,Female,Electrical Engineering,3,Andra Pradesh,2,9,6,46,5,5,91
+728,23,Male,Environmental Science,3,Gujarat,4,9,6,20,7,5,50
+729,22,Female,Electrical Engineering,1,West Bengal,9,12,7,93,4,2,82
+730,23,Female,Mechanical Engineering,1,Telenagana,6,14,12,90,2,2,92
+731,22,Male,Chemical Engineering,2,Gujarat,9,9,9,39,4,0,78
+732,27,Male,Electrical Engineering,4,UP,6,11,3,83,1,0,81
+733,22,Male,Mechanical Engineering,2,Maharashtra,5,9,8,52,4,1,70
+734,26,Male,Chemical Engineering,4,West Bengal,3,7,3,34,6,6,28
+735,18,Female,Environmental Science,1,Kerala,5,18,4,56,5,5,21
+736,26,Male,Computer Science,3,Tamil Nadu,10,8,13,46,2,0,97
+737,21,Female,IT,2,Maharashtra,4,7,14,21,2,1,46
+738,19,Male,Electrical Engineering,2,Telenagana,3,5,9,95,2,0,29
+739,21,Female,Civil Engineering,1,Kerala,2,20,9,50,2,1,43
+740,24,Female,IT,4,Telenagana,5,18,10,31,7,7,29
+741,25,Male,Mechanical Engineering,2,Telenagana,10,6,14,80,6,5,21
+742,26,Female,Mechanical Engineering,4,Maharashtra,6,11,12,89,6,6,19
+743,21,Female,Computer Science,2,Karnataka,9,8,12,77,1,1,88
+744,25,Male,Civil Engineering,3,Rajasthan,8,6,14,41,1,0,49
+745,25,Male,Bio-Technology,1,Telenagana,1,6,11,25,4,0,45
+746,25,Female,Mechanical Engineering,4,Telenagana,3,20,7,75,6,4,23
+747,18,Male,Environmental Science,1,Maharashtra,1,8,3,99,1,1,83
+748,19,Male,Civil Engineering,1,Gujarat,8,13,10,93,2,2,27
+749,22,Male,Bio-Technology,4,Delhi,1,6,9,23,3,2,50
+750,21,Male,Computer Science,4,Telenagana,2,7,10,36,4,1,43
+751,24,Male,Computer Science,2,Rajasthan,7,14,11,80,7,1,94
+752,21,Female,Chemical Engineering,4,Maharashtra,1,5,12,64,3,2,66
+753,22,Male,Mechanical Engineering,1,Kerala,2,8,14,97,2,0,65
+754,27,Female,IT,1,UP,7,8,12,80,6,1,65
+755,23,Female,Environmental Science,4,Rajasthan,7,11,13,62,3,3,27
+756,25,Female,Bio-Technology,4,Gujarat,3,11,10,78,6,2,43
+757,26,Male,Mechanical Engineering,2,Gujarat,10,10,6,81,4,2,49
+758,26,Male,Civil Engineering,2,Rajasthan,10,16,14,74,6,3,78
+759,23,Male,IT,2,Kerala,8,5,3,37,1,1,41
+760,24,Female,Mechanical Engineering,1,Gujarat,10,7,11,56,6,3,36
+761,26,Female,Mechanical Engineering,4,Telenagana,6,9,3,62,2,2,41
+762,23,Female,Mechanical Engineering,3,Maharashtra,5,13,9,82,5,3,59
+763,23,Female,Chemical Engineering,4,Delhi,6,16,12,76,6,4,96
+764,25,Female,Chemical Engineering,4,Karnataka,4,16,8,78,6,6,51
+765,22,Male,Electrical Engineering,2,Karnataka,9,10,11,75,4,2,91
+766,22,Male,Environmental Science,3,Gujarat,2,12,4,49,1,0,51
+767,22,Female,IT,4,Delhi,8,7,7,89,7,3,15
+768,21,Male,Environmental Science,3,Rajasthan,10,8,13,66,6,3,27
+769,19,Female,Environmental Science,3,Andra Pradesh,3,5,9,96,3,3,38
+770,21,Female,Mechanical Engineering,4,UP,2,11,10,89,7,7,79
+771,23,Female,Computer Science,2,Andra Pradesh,8,11,4,98,2,2,94
+772,19,Male,Environmental Science,2,Gujarat,2,14,10,19,5,4,76
+773,26,Male,Bio-Technology,4,UP,8,10,12,41,7,7,54
+774,20,Male,Chemical Engineering,3,Andra Pradesh,5,5,13,43,5,4,45
+775,21,Female,Civil Engineering,3,Maharashtra,8,8,8,40,1,0,36
+776,21,Male,Environmental Science,2,Tamil Nadu,8,11,10,72,6,3,55
+777,25,Male,IT,2,West Bengal,4,20,14,45,3,0,23
+778,22,Male,Bio-Technology,2,Karnataka,4,16,9,65,4,4,36
+779,27,Female,Civil Engineering,3,West Bengal,3,10,3,42,6,5,38
+780,26,Male,Mechanical Engineering,3,Kerala,10,19,5,54,6,3,57
+781,27,Male,Mechanical Engineering,2,West Bengal,5,8,7,69,6,4,73
+782,22,Female,Environmental Science,2,Karnataka,6,10,14,63,6,4,33
+783,19,Male,Mechanical Engineering,3,Delhi,7,16,6,88,4,1,16
+784,21,Female,IT,1,Gujarat,3,17,10,35,6,5,100
+785,22,Female,Chemical Engineering,3,Gujarat,6,18,8,62,6,0,75
+786,21,Male,IT,4,Karnataka,6,11,10,47,7,3,69
+787,23,Female,Chemical Engineering,4,Andra Pradesh,8,12,6,85,5,2,57
+788,20,Male,Environmental Science,3,West Bengal,8,18,11,25,7,0,17
+789,22,Female,Civil Engineering,4,Maharashtra,1,8,6,32,4,1,37
+790,18,Male,Electrical Engineering,1,Delhi,2,15,12,25,7,0,48
+791,26,Female,Mechanical Engineering,1,Karnataka,8,8,13,52,2,1,24
+792,20,Male,Civil Engineering,1,West Bengal,2,19,8,71,2,2,36
+793,22,Male,Electrical Engineering,4,Andra Pradesh,6,8,12,81,3,3,16
+794,18,Male,Computer Science,2,Maharashtra,8,9,14,60,1,0,91
+795,18,Male,Electrical Engineering,1,Tamil Nadu,8,20,13,44,3,0,60
+796,26,Female,Civil Engineering,1,Telenagana,3,16,10,89,1,0,75
+797,22,Male,Civil Engineering,2,Gujarat,5,14,5,20,1,1,89
+798,20,Male,IT,3,Andra Pradesh,6,6,7,74,1,1,15
+799,25,Male,Electrical Engineering,2,Tamil Nadu,10,7,14,80,3,1,77
+800,19,Male,Computer Science,3,Andra Pradesh,10,15,14,94,6,2,46
+801,18,Female,Civil Engineering,3,West Bengal,3,20,9,58,5,3,75
+802,27,Male,Bio-Technology,2,Tamil Nadu,9,8,9,69,2,0,29
+803,22,Female,IT,1,Delhi,2,17,13,72,6,6,20
+804,25,Male,Mechanical Engineering,3,Karnataka,7,14,13,74,1,1,17
+805,25,Female,Civil Engineering,2,West Bengal,2,19,14,70,5,1,87
+806,25,Female,Bio-Technology,1,Gujarat,6,14,8,67,3,1,52
+807,23,Female,Mechanical Engineering,3,Telenagana,9,19,15,62,2,0,44
+808,20,Female,Computer Science,4,Delhi,2,12,10,78,7,0,82
+809,18,Male,Chemical Engineering,1,Kerala,5,18,15,55,3,1,79
+810,22,Female,Chemical Engineering,2,Andra Pradesh,9,14,5,49,4,0,36
+811,25,Female,Environmental Science,4,Karnataka,8,18,12,63,5,5,33
+812,19,Female,IT,2,Maharashtra,7,11,6,18,6,5,27
+813,19,Male,IT,3,Gujarat,10,7,7,37,1,0,27
+814,24,Male,Chemical Engineering,1,Telenagana,7,20,14,71,3,3,53
+815,25,Male,Environmental Science,4,West Bengal,4,16,14,44,1,0,57
+816,19,Female,Bio-Technology,4,Delhi,10,10,4,48,5,5,72
+817,27,Female,Mechanical Engineering,4,Maharashtra,4,5,13,97,5,3,77
+818,18,Female,Computer Science,3,Telenagana,9,20,10,24,2,1,59
+819,20,Female,Mechanical Engineering,1,Andra Pradesh,3,8,5,60,7,0,84
+820,20,Male,Computer Science,1,Maharashtra,8,17,5,25,4,0,47
+821,27,Female,Electrical Engineering,3,West Bengal,7,19,6,52,4,4,99
+822,22,Male,Civil Engineering,2,Maharashtra,2,7,5,79,3,0,77
+823,19,Female,Computer Science,4,Andra Pradesh,6,8,12,80,7,7,47
+824,21,Female,Computer Science,2,Delhi,4,9,10,84,3,1,61
+825,19,Female,IT,3,Kerala,10,17,4,97,7,0,73
+826,26,Female,Electrical Engineering,2,Rajasthan,7,17,15,25,6,1,16
+827,24,Male,IT,2,Maharashtra,7,8,9,50,7,5,60
+828,27,Female,IT,3,Andra Pradesh,10,10,10,44,2,0,53
+829,27,Male,IT,4,Telenagana,6,7,7,27,5,0,57
+830,27,Female,Mechanical Engineering,2,Rajasthan,9,16,6,30,6,1,81
+831,21,Male,Environmental Science,1,Gujarat,4,11,6,24,5,0,99
+832,26,Female,Electrical Engineering,2,Tamil Nadu,3,15,11,61,5,0,91
+833,24,Male,Mechanical Engineering,2,Karnataka,2,11,3,19,2,2,76
+834,25,Female,Electrical Engineering,1,Rajasthan,10,17,3,84,1,1,29
+835,25,Female,Mechanical Engineering,4,West Bengal,8,8,8,40,4,1,49
+836,22,Male,Civil Engineering,1,Kerala,2,12,7,57,1,0,81
+837,27,Male,Environmental Science,4,Kerala,10,18,8,40,5,3,96
+838,24,Male,Chemical Engineering,3,Delhi,10,20,13,57,7,2,17
+839,22,Male,IT,3,Gujarat,8,13,5,47,4,4,33
+840,27,Female,Mechanical Engineering,2,Andra Pradesh,6,13,5,53,3,2,67
+841,27,Female,Electrical Engineering,2,Rajasthan,9,17,11,50,2,1,43
+842,18,Female,IT,3,Gujarat,2,16,3,39,7,6,99
+843,27,Male,Civil Engineering,1,Maharashtra,8,20,15,92,3,2,33
+844,19,Male,Computer Science,3,Tamil Nadu,3,17,4,32,7,7,60
+845,21,Female,Civil Engineering,4,West Bengal,5,20,8,84,2,2,78
+846,21,Female,Mechanical Engineering,2,Rajasthan,7,13,9,48,4,0,18
+847,22,Male,IT,1,Maharashtra,2,9,4,16,6,2,46
+848,19,Male,Mechanical Engineering,2,Delhi,10,19,12,53,4,0,88
+849,20,Female,Bio-Technology,3,Maharashtra,2,8,6,51,2,0,70
+850,21,Female,Computer Science,1,Rajasthan,10,8,4,59,5,0,61
+851,20,Female,Electrical Engineering,3,Telenagana,7,13,11,66,3,0,41
+852,26,Female,Environmental Science,4,Tamil Nadu,6,20,6,66,2,2,26
+853,19,Female,Mechanical Engineering,3,West Bengal,8,20,10,89,6,6,39
+854,20,Male,Computer Science,1,Karnataka,1,12,7,98,6,1,63
+855,18,Male,Environmental Science,3,Gujarat,2,9,8,16,7,2,96
+856,24,Female,Computer Science,2,UP,4,5,15,75,7,0,28
+857,25,Female,Environmental Science,2,Delhi,3,8,8,98,7,6,50
+858,27,Male,Bio-Technology,1,Telenagana,10,6,15,80,6,6,95
+859,25,Male,Chemical Engineering,2,Maharashtra,1,7,3,34,1,1,84
+860,22,Female,Electrical Engineering,4,West Bengal,3,20,15,65,5,5,72
+861,18,Male,Environmental Science,4,West Bengal,3,5,11,44,3,3,82
+862,21,Male,Chemical Engineering,1,UP,8,10,7,44,3,2,37
+863,22,Female,Environmental Science,3,Andra Pradesh,9,17,5,41,5,4,48
+864,22,Female,Electrical Engineering,2,UP,5,15,14,75,6,4,59
+865,25,Female,Mechanical Engineering,2,Karnataka,7,9,11,44,1,1,57
+866,19,Female,Computer Science,3,Tamil Nadu,10,14,12,81,3,1,65
+867,21,Male,Chemical Engineering,3,Delhi,10,8,13,90,7,6,90
+868,22,Male,IT,3,Maharashtra,8,7,4,85,6,1,68
+869,27,Female,Electrical Engineering,3,Karnataka,4,20,14,74,5,2,50
+870,21,Male,Mechanical Engineering,2,Andra Pradesh,4,19,3,74,4,0,54
+871,24,Female,Electrical Engineering,4,Delhi,6,11,10,58,6,4,39
+872,19,Female,Mechanical Engineering,1,Rajasthan,5,14,15,25,7,6,20
+873,26,Female,Bio-Technology,1,UP,10,20,10,55,2,0,89
+874,21,Female,Bio-Technology,3,Tamil Nadu,5,20,15,39,4,1,81
+875,20,Male,Chemical Engineering,4,Rajasthan,7,13,4,69,3,3,58
+876,22,Female,Computer Science,2,West Bengal,6,15,4,68,6,4,93
+877,20,Male,Bio-Technology,2,West Bengal,2,5,15,41,4,0,30
+878,19,Male,Environmental Science,1,Tamil Nadu,10,6,12,71,1,0,70
+879,18,Female,Chemical Engineering,3,Rajasthan,1,18,12,72,7,6,73
+880,20,Female,Environmental Science,4,Karnataka,10,8,15,86,3,1,87
+881,22,Male,Electrical Engineering,1,Kerala,9,17,4,18,2,2,59
+882,27,Female,Mechanical Engineering,4,Delhi,7,19,11,62,7,1,51
+883,27,Female,Mechanical Engineering,3,Karnataka,3,15,3,32,6,6,29
+884,22,Female,Civil Engineering,3,Andra Pradesh,5,17,11,88,2,2,16
+885,25,Male,Computer Science,1,Maharashtra,1,19,4,31,7,7,78
+886,19,Male,Computer Science,3,Tamil Nadu,6,19,5,54,6,3,33
+887,25,Male,Computer Science,4,Kerala,9,6,13,16,7,5,74
+888,22,Female,Civil Engineering,4,Rajasthan,1,6,4,78,2,2,34
+889,24,Female,Computer Science,1,Tamil Nadu,1,10,6,99,6,5,81
+890,22,Female,Bio-Technology,3,Andra Pradesh,9,14,8,60,6,3,52
+891,26,Female,Chemical Engineering,2,Maharashtra,6,10,5,58,1,1,94
+892,26,Male,IT,3,West Bengal,2,20,14,43,7,2,86
+893,25,Male,Environmental Science,1,Telenagana,5,18,7,68,7,0,100
+894,25,Female,Environmental Science,1,Tamil Nadu,1,9,14,69,2,1,35
+895,19,Male,Computer Science,2,Karnataka,4,14,10,66,7,6,53
+896,27,Male,IT,1,Gujarat,7,17,15,83,4,1,77
+897,18,Male,Civil Engineering,1,West Bengal,10,20,11,53,6,2,51
+898,24,Male,Chemical Engineering,2,Andra Pradesh,7,8,10,56,4,0,23
+899,23,Female,Civil Engineering,2,Andra Pradesh,6,20,14,90,3,0,52
+900,27,Female,IT,4,Kerala,7,20,4,17,7,1,16
+901,22,Female,Chemical Engineering,1,Gujarat,7,20,5,87,6,2,73
+902,18,Male,Electrical Engineering,2,Kerala,7,10,13,19,7,5,20
+903,19,Male,Mechanical Engineering,4,Andra Pradesh,7,6,8,32,2,0,42
+904,21,Female,Chemical Engineering,1,Maharashtra,9,17,8,34,1,0,51
+905,27,Female,Mechanical Engineering,2,UP,4,13,5,57,5,2,90
+906,27,Male,Computer Science,1,Karnataka,3,20,4,87,4,1,30
+907,18,Female,Environmental Science,4,Kerala,8,17,6,95,3,0,21
+908,22,Female,Civil Engineering,3,Tamil Nadu,3,16,10,92,4,0,77
+909,27,Female,Computer Science,1,Tamil Nadu,4,14,9,92,6,1,54
+910,18,Female,IT,1,Andra Pradesh,9,15,15,88,4,4,15
+911,20,Female,Mechanical Engineering,1,Gujarat,7,6,15,65,3,0,70
+912,25,Female,Bio-Technology,1,UP,6,5,3,63,7,4,60
+913,26,Male,Electrical Engineering,2,Kerala,7,6,6,41,4,1,99
+914,25,Female,Electrical Engineering,3,Karnataka,3,9,15,65,4,4,15
+915,22,Female,Chemical Engineering,1,Delhi,5,16,10,23,1,0,21
+916,20,Male,Mechanical Engineering,2,Kerala,3,16,8,83,5,5,47
+917,27,Female,Bio-Technology,3,Karnataka,3,5,7,64,6,0,32
+918,24,Female,Computer Science,4,Andra Pradesh,1,15,11,39,3,1,59
+919,25,Male,Chemical Engineering,4,Gujarat,2,17,5,75,3,2,51
+920,19,Female,Civil Engineering,4,Gujarat,1,8,4,28,6,0,79
+921,25,Female,Electrical Engineering,4,Kerala,3,18,7,57,2,2,100
+922,23,Male,Electrical Engineering,4,Tamil Nadu,8,16,8,87,6,4,86
+923,24,Male,Civil Engineering,3,Andra Pradesh,7,16,14,72,7,0,34
+924,23,Female,Bio-Technology,1,West Bengal,3,18,15,96,5,4,26
+925,23,Male,Chemical Engineering,4,Rajasthan,2,16,9,53,4,3,49
+926,19,Female,Bio-Technology,1,Kerala,3,6,8,26,1,0,33
+927,20,Male,Civil Engineering,1,Telenagana,7,12,13,36,2,0,40
+928,23,Male,Civil Engineering,1,Karnataka,8,12,13,28,3,2,70
+929,24,Male,Environmental Science,1,West Bengal,10,12,6,85,7,1,89
+930,25,Male,Computer Science,1,UP,7,14,5,37,7,4,25
+931,22,Male,IT,3,Tamil Nadu,10,7,15,19,5,0,52
+932,24,Male,Computer Science,1,UP,3,7,15,92,7,5,43
+933,26,Female,Civil Engineering,3,Maharashtra,8,14,11,77,7,4,19
+934,18,Female,Chemical Engineering,3,Tamil Nadu,9,8,9,18,1,1,75
+935,25,Female,Computer Science,1,Delhi,7,15,15,38,7,3,60
+936,19,Male,Chemical Engineering,3,Rajasthan,9,10,6,40,6,2,46
+937,23,Female,Computer Science,4,Kerala,8,5,5,23,3,3,96
+938,22,Male,IT,4,Telenagana,7,15,15,64,4,2,64
+939,23,Female,Electrical Engineering,4,Maharashtra,6,6,9,51,6,1,69
+940,19,Female,Mechanical Engineering,1,Kerala,4,19,9,41,2,2,66
+941,24,Male,Civil Engineering,4,Rajasthan,3,18,9,44,5,5,27
+942,26,Male,Civil Engineering,2,Andra Pradesh,7,18,10,52,2,0,48
+943,18,Male,IT,2,Kerala,10,13,11,99,4,2,53
+944,26,Female,Bio-Technology,2,Karnataka,1,5,15,82,6,3,91
+945,25,Female,Computer Science,4,UP,10,20,13,23,4,4,54
+946,24,Female,Environmental Science,3,Gujarat,8,5,8,73,3,0,37
+947,18,Female,Electrical Engineering,2,Tamil Nadu,4,15,3,22,2,2,87
+948,21,Male,Mechanical Engineering,3,Telenagana,9,17,10,62,2,0,70
+949,26,Female,Computer Science,3,Rajasthan,5,17,5,81,2,0,56
+950,23,Female,Civil Engineering,1,Tamil Nadu,7,15,15,16,7,6,89
+951,27,Female,IT,2,Delhi,9,8,3,36,6,3,32
+952,25,Female,Chemical Engineering,1,Delhi,10,20,14,56,2,2,40
+953,25,Female,Bio-Technology,1,Kerala,6,8,15,67,6,6,47
+954,18,Male,Mechanical Engineering,1,Rajasthan,1,11,11,65,6,6,32
+955,21,Male,Mechanical Engineering,4,Delhi,1,15,4,35,1,0,68
+956,22,Female,Environmental Science,1,West Bengal,10,20,4,29,3,2,85
+957,26,Female,IT,3,Karnataka,8,15,8,31,6,1,40
+958,20,Male,Mechanical Engineering,2,Karnataka,6,10,8,83,7,2,53
+959,22,Female,Computer Science,3,West Bengal,2,14,9,68,5,5,54
+960,25,Female,IT,2,Maharashtra,10,16,15,76,1,1,25
+961,25,Male,Environmental Science,4,Delhi,8,18,5,23,6,0,53
+962,19,Female,Civil Engineering,2,Andra Pradesh,2,11,9,64,7,1,87
+963,18,Female,Electrical Engineering,2,Maharashtra,3,20,3,41,7,3,95
+964,27,Female,Electrical Engineering,2,Delhi,9,7,9,31,2,0,74
+965,21,Female,Chemical Engineering,2,West Bengal,5,11,15,41,4,1,84
+966,20,Female,IT,3,UP,8,14,3,54,4,1,38
+967,22,Female,Chemical Engineering,2,Rajasthan,9,13,13,70,6,4,63
+968,26,Male,Chemical Engineering,1,Telenagana,2,6,13,100,7,5,70
+969,18,Female,Bio-Technology,2,Rajasthan,9,14,5,75,2,1,27
+970,26,Female,Electrical Engineering,1,Andra Pradesh,10,17,12,35,1,0,32
+971,24,Female,Civil Engineering,4,Kerala,2,12,3,92,1,1,82
+972,19,Male,Mechanical Engineering,1,UP,4,7,13,88,3,2,71
+973,21,Female,Civil Engineering,3,UP,8,8,14,54,4,2,55
+974,19,Male,Environmental Science,1,Gujarat,2,15,15,90,2,2,79
+975,25,Female,Mechanical Engineering,3,West Bengal,9,13,13,40,1,1,60
+976,19,Male,Environmental Science,1,Tamil Nadu,10,7,11,79,1,0,74
+977,20,Female,Mechanical Engineering,2,Maharashtra,5,20,7,73,5,5,60
+978,25,Female,Environmental Science,4,UP,10,18,9,50,6,6,69
+979,22,Female,Bio-Technology,3,Delhi,1,11,9,40,3,3,74
+980,26,Female,Bio-Technology,3,West Bengal,6,16,13,15,5,1,68
+981,22,Male,Chemical Engineering,2,Maharashtra,9,7,14,33,4,1,67
+982,24,Male,IT,2,Rajasthan,1,14,11,72,2,2,74
+983,25,Female,Mechanical Engineering,1,Andra Pradesh,8,14,7,23,6,4,18
+984,25,Female,Chemical Engineering,3,Delhi,8,18,14,66,6,0,86
+985,21,Male,Civil Engineering,1,Andra Pradesh,9,15,14,92,4,1,18
+986,25,Male,Bio-Technology,2,Rajasthan,8,11,8,46,2,2,68
+987,26,Male,Electrical Engineering,3,West Bengal,10,18,8,82,1,1,26
+988,20,Male,Bio-Technology,4,Tamil Nadu,6,17,3,57,1,0,32
+989,24,Male,Electrical Engineering,4,Kerala,7,13,7,87,2,0,93
+990,21,Male,Mechanical Engineering,3,Telenagana,6,19,11,77,4,1,53
+991,27,Male,Mechanical Engineering,3,Tamil Nadu,5,10,12,73,4,2,46
+992,26,Male,Environmental Science,2,West Bengal,5,5,5,74,3,0,89
+993,20,Male,Electrical Engineering,3,UP,3,10,14,88,6,3,80
+994,19,Female,Computer Science,3,Gujarat,1,20,9,20,5,0,62
+995,22,Female,Civil Engineering,4,Kerala,10,11,10,26,2,1,31
+996,24,Female,Chemical Engineering,2,West Bengal,5,19,13,51,6,2,94
+997,23,Male,Environmental Science,1,Delhi,10,13,6,97,6,1,84
+998,26,Male,Mechanical Engineering,3,Gujarat,5,18,11,73,4,2,87
+999,22,Male,Civil Engineering,2,Delhi,1,6,12,59,7,2,52
+1000,18,Male,Chemical Engineering,2,Maharashtra,8,11,15,53,6,0,21
